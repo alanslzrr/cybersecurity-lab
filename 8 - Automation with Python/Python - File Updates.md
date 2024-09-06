@@ -7,7 +7,7 @@ As a security professional at a healthcare company, you are tasked with maintain
 ### 🔑 Key Objectives:
 1. Read the current allow list from a file
 2. Remove specific IP addresses from the list
-3. Update the file with the revised list
+3. Update the file with the revised list.
 
 ### 📋 IP Addresses to Remove:
 - `192.168.97.225`
