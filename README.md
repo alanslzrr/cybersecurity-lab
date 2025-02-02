@@ -3,7 +3,6 @@
 
 ## Professional Statement
 
-I am **Alan Salazar**, a passionate cybersecurity professional with a strong foundation in technology and a recent graduate of the **Google Cybersecurity Professional Certificate** program. My ultimate goal is to become a **Security Analyst**, leveraging my:
 
 - Strong analytical abilities
 - Persistence and eagerness to learn
